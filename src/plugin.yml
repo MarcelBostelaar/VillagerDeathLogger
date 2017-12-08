@@ -1,0 +1,4 @@
+name: VillagerDeathLogger
+version: 1.0
+author: Marcel Bostelaar
+main: com.gmail.bostelaarmarcel.VillagerDeathLogger.VillagerDeathLogger
